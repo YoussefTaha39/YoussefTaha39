@@ -42,7 +42,6 @@
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Jinja2](https://img.shields.io/badge/Jinja2-B41717?style=for-the-badge&logo=jinja&logoColor=white)
 
 
 ### Tools & Platforms
@@ -50,7 +49,6 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Gradio](https://img.shields.io/badge/Gradio-%23FF7C00.svg?style=for-the-badge&logo=gradio&logoColor=white)
 
 ---
 
@@ -130,21 +128,20 @@
 
 ---
 
-### 🏠 [Housing Prices Prediction](https://github.com/Kevoharvey/HousingPricesProject)
+### 🩺 [Diabetes Prediction System](https://github.com/YoussefTaha39/diabetes-prediction)
 
-> Machine learning model for residential property price estimation.
+> Machine learning system for predicting diabetes risk based on patient health indicators.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Gradio](https://img.shields.io/badge/Gradio-FF7C00?style=flat-square&logo=gradio&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
 
-- 📐 Data preprocessing and feature engineering
-- 🧪 End-to-end machine learning workflow
-- 🖥️ Interactive Gradio deployment for predictions
-
+- 🩺 Predicts diabetes risk using patient medical and health data
+- 📊 Data preprocessing, feature engineering, and exploratory data analysis
+- 🤖 Trained and evaluated multiple machine learning classification models
+- 📈 Performance assessment using accuracy and classification metrics
 ---
 ## ⭐️ Contributions
 
